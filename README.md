@@ -16,5 +16,5 @@ please cite the references if you find it is useful
 * Xiao G, Li P, Sui L, et al (2019b) Estimating and assessing Galileo satellite fractional cycle bias for PPP ambiguity resolution. GPS Solutions 23:. https://doi.org/10.1007/s10291-018-0793-z
 * Xiao G, Sui L, Heck B, et al (2018) Estimating satellite phase fractional cycle biases based on Kalman filter. GPS Solutions 22:. https://doi.org/10.1007/s10291-018-0749-3
 ## Notes
-* For Galileo/BDS PPP AR, please use the antenna file at directory <atx>.
+* For Galileo/BDS PPP AR, please use the antenna file at directory ‘atx’.
 
